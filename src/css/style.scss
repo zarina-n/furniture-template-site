@@ -265,6 +265,8 @@ body {
   flex-direction: column;
   transition: all 0.3s;
   position: relative;
+   padding: 5px;
+  border-radius: 5px;
 }
 
 .product:hover {
