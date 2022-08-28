@@ -1,6 +1,6 @@
 # Furniture Store Responsive Website
 
-## Sumamry
+## Summary
 
 #### I created this landing page while learning HTML and CSS. It has responsive layout and easily readable on the computer, tablet and phone screens.
 #### My project contains 3 pages: Home, Catalog and Cart
