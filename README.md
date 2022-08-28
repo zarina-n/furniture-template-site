@@ -22,7 +22,7 @@
 * Understanding how the position, z-index properties work
 * Ability to arrange elements using **Flexbox** technology
 * Ability to arrange elements using **Grid** Layout technology
-* Understanding the definition of classes using methodologies (on the example of BEM)
+* Understanding the definition of classes using methodologies (on the example of **BEM**)
 * Ability to work with **CSS frameworks** (on the example of **Bootstrap**)
 * Ability to work with CSS preprocessors: **SASS/SCSS**
 * Ability to add to the page: video, audio, images
