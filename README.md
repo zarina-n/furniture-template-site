@@ -5,7 +5,7 @@
 #### I created this landing page while learning HTML and CSS. It has responsive layout and easily readable on the computer, tablet and phone screens.
 #### My project contains 3 pages: Home, Catalog and Cart
 
-### To see this project you can follow this link https://kittysaur.github.io/furniture-template-site/
+### To see this project you can follow this [link](https://zarina-n.github.io/furniture-template-site/)
 (The website is a Russian version for now)
 
 #### While working on this project, I learned and practice following skills:
