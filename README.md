@@ -5,6 +5,9 @@
 #### I created this landing page while learning HTML and CSS. It has responsive layout and easily readable on the computer, tablet and phone screens.
 #### My project contains 3 pages: Home, Catalog and Cart
 
+![image](https://github.com/zarina-n/furniture-template-site/assets/101009726/f607b531-da20-4694-8d48-1c19c45c4af1)
+
+
 ### To see this project you can follow this [link](https://zarina-n.github.io/furniture-template-site/)
 (The website is a Russian version for now)
 
