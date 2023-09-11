@@ -1,4 +1,4 @@
-@import "vars";
+@import 'vars';
 
 * {
   margin: 0px;
@@ -19,7 +19,7 @@ a {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .center {
@@ -108,7 +108,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #000000;
-  content: "/\00a0";
+  content: '/\00a0';
 }
 
 .list_link {
@@ -265,7 +265,7 @@ body {
   flex-direction: column;
   transition: all 0.3s;
   position: relative;
-   padding: 5px;
+  padding: 5px;
   border-radius: 5px;
 }
 
@@ -713,6 +713,6 @@ svg.logo_bottom {
   margin-bottom: 64px;
 }
 
-@import "cart";
-@import "tablet";
-@import "mobile";
+@import 'cart';
+@import 'tablet';
+@import 'mobile';
